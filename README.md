@@ -36,7 +36,7 @@ You only need a web browser to view the HTML file. No special server or software
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/khdxsohee/AutoElite-Car-Sale-and-Rental.git](https://github.com/khdxsohee/AutoElite-Car-Sale-and-Rental.git)
+    git clone [https://github.com/farhan-swe/AutoElite-Car-Sale-and-Rental.git](https://github.com/farhan-swe/AutoElite-Car-Sale-and-Rental.git)
     ```
 2.  **Navigate to the project directory:**
     ```sh
